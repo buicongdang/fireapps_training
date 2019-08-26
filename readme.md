@@ -1,5 +1,7 @@
 ## Up docker component
 
+Hãy chắc chắn rằng bạn đã cài đặt docker ở máy tính của bạn
+
 ```cd laradock & docker-compose up -d mysql nginx phpmyadmin redis```
 
 ## Exec docker workspace
